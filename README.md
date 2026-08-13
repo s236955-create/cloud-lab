@@ -1,4 +1,4 @@
 # Cloud Computing Laboratory
-Student Name:
-Student ID:
-Class:
+Student Name:Nguyễn Thị Huyền Trân 
+Student ID:236955
+Class:DH23TIN08
